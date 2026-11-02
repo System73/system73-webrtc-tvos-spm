@@ -1,4 +1,4 @@
-// swift-tools-version: 6.2
+// swift-tools-version: 6.0
 // The swift-tools-version declares the minimum version of Swift required to build this package.
 
 import PackageDescription
@@ -16,8 +16,8 @@ let package = Package(
         
         .binaryTarget(
             name: "WebRTCtvOS",
-            url: "https://artifacts.s73cloud.com/repository/maven-s73-releases/s73-polynet-plat/polynet-tvos-webrtc-xcframework/1.0.0/polynet-tvos-webrtc-xcframework-1.0.0.zip",
-            checksum: "3c9e8413357513a3b40108a9834ff3bd6a003ab447f816d31a053e156f5f7b00"
+            url: "https://artifacts.s73cloud.com/repository/maven-s73-releases/s73-polynet-plat/polynet-tvos-webrtc-xcframework/1.1.0/polynet-tvos-webrtc-xcframework-1.1.0.zip",
+            checksum: "391405dbaca3c6c55e24f01465dc1e3930fcda67b296fa6f71ac12431edf52bf"
         )
     ]
 )

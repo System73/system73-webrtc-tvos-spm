@@ -16,8 +16,8 @@ let package = Package(
         
         .binaryTarget(
             name: "WebRTCtvOS",
-            url: "https://artifacts.s73cloud.com/repository/maven-s73-releases/s73-polynet-plat/polynet-tvos-webrtc-xcframework/1.1.0/polynet-tvos-webrtc-xcframework-1.1.0.zip",
-            checksum: "391405dbaca3c6c55e24f01465dc1e3930fcda67b296fa6f71ac12431edf52bf"
+            url: "https://artifacts.s73cloud.com/repository/maven-s73-releases/s73-polynet-plat/polynet-tvos-webrtc-xcframework/1.1.1/polynet-tvos-webrtc-xcframework-1.1.1.zip",
+            checksum: "e402c399f122c682461c764beccaf211f90ee62e194395254e5b2ca0a50efc73"
         )
     ]
 )
